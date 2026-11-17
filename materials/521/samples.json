@@ -1,0 +1,11 @@
+{
+  "safe_csv": "id,value\na,1\n",
+  "replacement_csv": "id,value\nb,2\n",
+  "scanner_modes": [
+    "normal",
+    "block",
+    "partial",
+    "bad_exit",
+    "stderr_flood"
+  ]
+}
